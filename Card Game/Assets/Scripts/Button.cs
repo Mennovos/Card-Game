@@ -1,10 +1,23 @@
+using System.Collections;
 using UnityEngine;
 
 public class Button : MonoBehaviour
 {
-   private void Nexturn()
+    private GameManger gameManger;
+    protected GameObject MainUi;
+     protected virtual void Start()
+     {
+        gameManger = FindFirstObjectByType<GameManger>();
+        MainUi = GameObject.Find("MainUI");
+     }
+
+    public virtual void Nexturn()
    {
-       Debug.Log("Next turn triggered.");
-        // Add logic to proceed to the next turn in the game
+      gameManger.turnEnded = true;
+        if (gameManger.turnEnded)
+        {
+           Debug.Log("Turn Ended.");
+           MainUi.SetActive(false);
+        }
     }
 }
