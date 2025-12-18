@@ -7,6 +7,7 @@ public class GameManger : MonoBehaviour
     [SerializeField] private GameObject player;
     [SerializeField] private float waitTime = 10f;
     [SerializeField] private GameObject MainUi;
+    [SerializeField] private GameObject EnemyUi;
 
     private void Update()
     {
@@ -22,9 +23,10 @@ public class GameManger : MonoBehaviour
     }
     private IEnumerator Waitime()
     {
-        player.GetComponent<Health>().TakeDamage(10f);
+        EnemyUi.SetActive(true);
+        player.GetComponent<Health>().TakeDamage(15f);
         yield return new WaitForSeconds(waitTime);
+        EnemyUi.SetActive(false);
         MainUi.SetActive(true);
-
     }
 }
