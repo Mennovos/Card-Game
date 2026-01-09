@@ -16,7 +16,6 @@ public class Button : MonoBehaviour
       gameManger.turnEnded = true;
         if (gameManger.turnEnded)
         {
-           Debug.Log("Turn Ended.");
            MainUi.SetActive(false);
         }
     }
