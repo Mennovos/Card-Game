@@ -18,5 +18,6 @@ public class Button : MonoBehaviour
         {
            MainUi.SetActive(false);
         }
+        Destroy(gameObject);
     }
 }
