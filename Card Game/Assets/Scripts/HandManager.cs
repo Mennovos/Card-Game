@@ -15,8 +15,12 @@ public class HandManager : MonoBehaviour
 
     private void Update()
     {
-    
-            DrawCards();
+        Keyboard kb = Keyboard.current;
+        if (kb != null)
+            if (kb.spaceKey.wasPressedThisFrame)
+            {
+                DrawCards();
+            }
     }
     private void DrawCards()
     {
@@ -35,12 +39,15 @@ public class HandManager : MonoBehaviour
         {
             float p = firstCardPosition + i * CardSpacing;
             Vector3 splinePosition = spline.EvaluatePosition(p);
-            Vector3 forward = spline.EvaluateTangent(p);
-            Vector3 up = spline.EvaluateUpVector(p);
-            Quaternion rotation = Quaternion.LookRotation(up,Vector3.Cross(up,forward).normalized);
-            handCards[i].transform.DOMove(splinePosition, 0.25f);
-            handCards[i].transform.DORotateQuaternion(rotation, 0.25f);
+            //Vector3 forward = spline.EvaluateTangent(p);
+            //Vector3 up = spline.EvaluateUpVector(p);
+            //Quaternion rotation = Quaternion.LookRotation(forward, up);
+          //  Quaternion rotation = Quaternion.LookRotation(up,Vector3.Cross(up,forward).normalized);
+
+            handCards[i].transform.DOMove(splinePosition, 0.5f);
+           // handCards[i].transform.DORotateQuaternion(rotation, 0.5f);
         }
     }
     // Credits  to the code otter with the video " EASY CURVED Card Hand in Unity Using Splines"
 }
+//  Quaternion rotation = Quaternion.LookRotation(up,Vector3.Cross(up,forward).normalized);
