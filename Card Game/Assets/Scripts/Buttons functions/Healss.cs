@@ -10,7 +10,7 @@ public class Healss : Button
     }
     public void Healllls()
     {
-        health.Heal(20f);
+        health.Heal(30f);
         base.Nexturn();
     }
 
