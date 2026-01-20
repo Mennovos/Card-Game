@@ -7,11 +7,11 @@ using UnityEngine.Splines;
 
 public class HandManager : MonoBehaviour
 {
-    [SerializeField] private int maxHandSize = 5;
+    [SerializeField] public int maxHandSize = 5;
     [SerializeField] private GameObject cardPrefab;
     [SerializeField] private SplineContainer splineContainer;
     [SerializeField] private Transform spawnPoint;
-    private List<GameObject> handCards = new();
+    [SerializeField] private List<GameObject> handCards = new();
 
     private void Update()
     {
@@ -22,7 +22,7 @@ public class HandManager : MonoBehaviour
                 DrawCards();
             }
     }
-    private void DrawCards()
+    public void DrawCards()
     {
         if (handCards.Count >= maxHandSize) return;
         GameObject g = Instantiate(cardPrefab, spawnPoint.position, spawnPoint.rotation);

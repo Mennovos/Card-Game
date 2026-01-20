@@ -745,10 +745,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74c6fa456255c1049b42638a6684e899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HandManager
-  maxHandSize: 7
+  maxHandSize: 5
   cardPrefab: {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
   splineContainer: {fileID: 1747860603}
   spawnPoint: {fileID: 1117960796}
+  handCards: []
 --- !u!4 &1097355796
 Transform:
   m_ObjectHideFlags: 0
@@ -876,7 +877,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 51f25402e79643f48be189279832ff3e, type: 2}
+  - {fileID: 2100000, guid: f3081846e50340b47a402369938c6a3b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -918,7 +919,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.49, y: 0.3, z: 5.96}
-  m_LocalScale: {x: 2.3447, y: 2.6003, z: 1}
+  m_LocalScale: {x: 2.3447, y: 2.6003, z: 2.3198}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1436461145}
@@ -1261,8 +1262,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1436461144}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0021691}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.014338}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1527798959}
