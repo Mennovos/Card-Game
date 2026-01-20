@@ -746,7 +746,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HandManager
   maxHandSize: 7
-  cardPrefab: {fileID: 1915250302024035604, guid: 50a194abcc9c4b740aa2fe01b09338c0, type: 3}
+  cardPrefab: {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
   splineContainer: {fileID: 1747860603}
   spawnPoint: {fileID: 1117960796}
 --- !u!4 &1097355796
@@ -917,7 +917,7 @@ Transform:
   m_GameObject: {fileID: 1105293182}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.49, y: 0.3, z: 3.84}
+  m_LocalPosition: {x: 3.49, y: 0.3, z: 5.96}
   m_LocalScale: {x: 2.3447, y: 2.6003, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1504,7 +1504,7 @@ Transform:
   m_GameObject: {fileID: 1451976329}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.95, y: -0.59, z: 3.54}
+  m_LocalPosition: {x: -2.95, y: -0.59, z: 5.52}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1538,7 +1538,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1602242593}
   m_Father: {fileID: 1581897764}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1760,7 +1761,7 @@ Transform:
   m_GameObject: {fileID: 1500471091}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5, y: -1.02, z: 4.62}
+  m_LocalPosition: {x: 0.5, y: -1.02, z: 7.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1935,7 +1936,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1602242593}
   - {fileID: 1477543028}
   - {fileID: 802483472}
   m_Father: {fileID: 0}
@@ -1976,7 +1976,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2102691707}
-  m_Father: {fileID: 1581897764}
+  m_Father: {fileID: 1477543028}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
