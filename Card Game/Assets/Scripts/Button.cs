@@ -15,13 +15,11 @@ public class Button : MonoBehaviour
 
     public virtual void Nexturn()
    {
-        //handManager.DrawCards();
       gameManger.turnEnded = true;
         if (gameManger.turnEnded)
         {
            MainUi.SetActive(false);
         }
-        handManager.maxHandSize++;
         Destroy(gameObject,0.1f);
     }
 }

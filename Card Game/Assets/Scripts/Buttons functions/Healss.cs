@@ -10,6 +10,7 @@ public class Healss : Button
     }
     public void Healllls()
     {
+        Debug.Log("Healed 30 health points.");
         health.Heal(30f);
         base.Nexturn();
     }
