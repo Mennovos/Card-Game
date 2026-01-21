@@ -313,6 +313,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4955706200618442388, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
+      propertyPath: m_BlockingMask.m_Bits
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955706200618442388, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
+      propertyPath: m_IgnoreReversedGraphics
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7006879876335141253, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
       propertyPath: m_Name
       value: Works
@@ -335,6 +343,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7006879876335141253, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
       insertIndex: -1
       addedObject: {fileID: 970833935687121529}
+    - targetCorrespondingSourceObject: {fileID: 7006879876335141253, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1373865757715298990}
   m_SourcePrefab: {fileID: 100100000, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
 --- !u!1 &3461596361109964539 stripped
 GameObject:
@@ -409,6 +420,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee3943a9884e48f4fbe3d9436c28c37b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Healss
+--- !u!65 &1373865757715298990
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3461596361109964539}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!224 &8986145665456711636 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3279267368215388330, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}

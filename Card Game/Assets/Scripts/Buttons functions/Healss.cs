@@ -14,5 +14,12 @@ public class Healss : Button
         health.Heal(30f);
         base.Nexturn();
     }
-
+    private void OnMouseOver()
+    {
+        transform.localScale = new Vector3(1.3f, 1.3f, 1.3f);
+    }
+    private void OnMouseExit()
+    {
+        transform.localScale = new Vector3(1f, 1f, 1f);
+    }
 }
