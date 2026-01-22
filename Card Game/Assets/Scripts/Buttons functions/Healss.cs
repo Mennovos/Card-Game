@@ -3,8 +3,10 @@ using UnityEngine;
 public class Healss : Button
 {
     private Health health;
+    private Vector3 Orginelscale;
     protected override void Start()
     {
+        Orginelscale = transform.localScale;
         base.Start();
         health = FindFirstObjectByType<Health>();
     }
@@ -20,6 +22,6 @@ public class Healss : Button
     }
     private void OnMouseExit()
     {
-        transform.localScale = new Vector3(1f, 1f, 1f);
+        transform.localScale = Orginelscale;
     }
 }

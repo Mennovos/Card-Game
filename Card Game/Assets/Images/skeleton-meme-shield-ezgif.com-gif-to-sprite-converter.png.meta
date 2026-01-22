@@ -1,0 +1,4443 @@
+fileFormatVersion: 2
+guid: d759946de590d734db36afc9fde0cbe0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1ce51653a30004a8c58dda8cbceea4
+      internalID: 1812799500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f328a46586504fa011898af171d4b
+      internalID: -1286783000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d80010558efd844a7260881df37315
+      internalID: 871504714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d60522d332584e9a49894a0a09a27
+      internalID: 433687170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c2bb4fa83ea4749aaddded30baa5a7
+      internalID: 449716274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a61fc3c079d74db901685de8fda83
+      internalID: 1183515635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7102dc37153bb74eb2acbec47df4d3f
+      internalID: 1364742486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c553091e898abd4b8f39d3551a52a2f
+      internalID: 1075125744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea86142088dff44182940f7cd6d9a58
+      internalID: -1589525455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2520
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961119afe0768fd49ad65ab8776a312f
+      internalID: 901523401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991175d91c65d449a339e990c4eaa6e
+      internalID: 47752705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d903a0f824474b9753c34cbccbcda
+      internalID: -1767473948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584725863a08d14e932eb5c249aad6a
+      internalID: 634930851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835cf79b65137b4aaf1251e36e2dffd
+      internalID: -919613618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2450
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3cfee37e994784b9300809127f8594
+      internalID: -385306578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e353ac833c0d46b5c3f4e4839d30d
+      internalID: -1464505764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0417e3e698cc1a43b17e2092e070eb5
+      internalID: 27618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df124278462350449874169debb9a472
+      internalID: 2023908718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ae8fc1c653364599d86a9050931d1
+      internalID: 378220739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2380
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58cbd54625bc40499a773e8ff95f499
+      internalID: 1756074656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1c544ef02e7846960cd91243baf29
+      internalID: 183339350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec96d56c483094186547321c89a736
+      internalID: 6885338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe8562adf5ae324b908324739cb21ac
+      internalID: 2015302262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ab4f8ead0a2345ac1e82ed01052a7
+      internalID: -1543920320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2310
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5ee952d5ce2254a87b18a483e51147
+      internalID: 1085451807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f18bed0a747a748b6409fa7b72e16f
+      internalID: 971911814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320bdba9afd2a44bab936281dc49fd2
+      internalID: 1719111157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2a472e16dbf0439ad9cd8059171fe
+      internalID: 1153969414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aaee24f8b8d594ba6739f8bd3aa1b6
+      internalID: 1604811224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2240
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53234c2ac2ff2449d87eded7fe1608
+      internalID: 711836625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f619c228e5b88448bc8fd616c1364e
+      internalID: -1789872581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f012a48e0b1c349a2b0c7c1154eb8f
+      internalID: 2057996950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff93ba929b9f349a276994615b37c9
+      internalID: 529838255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a601c7d6883543a50d43e846bd9f8
+      internalID: -1327581795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2170
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800270a6fe515f74e9f913a0dc76f08c
+      internalID: -792813236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab6829519c75b408c59d827f68fcca
+      internalID: -1142867599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd7f53cc4c22742b2638e800b10d7f
+      internalID: -1605990787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b894bb48dfb4af4d962b8640625f17b
+      internalID: 982392829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd1cf8ca884f2448b14d438eb3266b3
+      internalID: 2038614705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2100
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876ddf90c4e29e4fbcf6d989ae9ef27
+      internalID: 790062684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e03f12ac52c44e918f5cc0c987d9c
+      internalID: 752649021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2030
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b6c28008750849a86ed6485f2e952
+      internalID: 1550429270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2030
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9332903842aa478fe9782572d083a
+      internalID: 2160928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2030
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019714958689e5542a641cc53978c9c7
+      internalID: -616440799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2030
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20091525066e6d14593f8d1eec762808
+      internalID: -1493623755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d07867d6d9489499475df034598d69
+      internalID: -1134377809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1960
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96184c871726a534aaae735769caa00f
+      internalID: 280895088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1960
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe867b35d0a9f8c4a821a458d22c1693
+      internalID: 1891042177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1960
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dabbf77c73b3f45bdd6631169f989b
+      internalID: -1619310794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1960
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86f1463c3986694f959773b52f0f97a
+      internalID: 2851545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddedc7270475d72468107bb752ec28b3
+      internalID: 170312418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1890
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118366e171f0804fae4da3cd3d55cfd
+      internalID: 536851811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1890
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9d16abed57a964284bdec4eff8c087
+      internalID: 726381768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1890
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f532e8146b8fa47864a3b5eb9c8f26
+      internalID: 1726646005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1890
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12298dee31c564cb422994872a8719
+      internalID: 521518300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302441e5accf29045b73b0bd1767ed3d
+      internalID: 31429117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1820
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540b01592149e7746a5bbf68cea268a7
+      internalID: 1833795569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1820
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e09619acd92c84f95b7239d4909516
+      internalID: 1705556010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1820
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165e820709904f4aa539246aa3e3bb7
+      internalID: 626323960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1820
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a029702e8c34045a378686a3ca0f69
+      internalID: 698343739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7c5db77b77f324a99b64156b96d14c
+      internalID: 152962664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1750
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba87c5906c92794fb651e2592f6f866
+      internalID: -962006956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1750
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8843a12025aa06347bd22cf8260b4d2d
+      internalID: 241053411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1750
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936dfe32798443e43a3cea9116df6866
+      internalID: -1919020492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1750
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3628fb36f550c342b279be0e0810d85
+      internalID: 1722380736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79520da98041bf14788ebf044fc2aa1f
+      internalID: 774683188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1680
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac83855df5370f4f8e1424a08566dcb
+      internalID: -1988882187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1680
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda257185239f5d459c35492fbccde5e
+      internalID: -39748476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1680
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd9ac286121a04da77216e2874a46f
+      internalID: -1578750858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1680
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf04daef8fefef48ac8d1b4a0c56d30
+      internalID: -2074769308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6af21c5d70fb7488c46259e1e8a2b6
+      internalID: -601557661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1610
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760a33cd2c557e4aa9f1e47e44bbe36
+      internalID: 487165070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1610
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143651ebdf1745144bc76d51f169d2cc
+      internalID: -359622165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1610
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b4b975ad1192439b43b6d3eac561b
+      internalID: -2051030254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1610
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8ed36ac7efe64888be7a8c7dee962
+      internalID: 262846689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2a312daac824a4393b171653d443be
+      internalID: 1051994957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_76
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1540
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7035634af6474499886360ab45a79d
+      internalID: 546721357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1540
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07058a14122da4640aa2532808b66d98
+      internalID: 1376271705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1540
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ec60fcd0747247a0e946c37cb6d40
+      internalID: 1127306554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1540
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1e6beddbc1654291f062ce7b7c784
+      internalID: 1570797151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba18c67002391047b929cdf0f966217
+      internalID: 997000452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b4be81f4b24d44985945af5bbfdcfa
+      internalID: -627820861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb7f556e4784b41aefb433233484fe
+      internalID: -1052538986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd79402726d96b41b1d7763bb68396e
+      internalID: -1696699922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392521b05f77d1b4ab1444bedae46f89
+      internalID: 1168544397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a81b4213c79ee41b6308db570c608d
+      internalID: -1184335204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_86
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1400
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77bc05290bdbb4bab1d3b618b4ebc5
+      internalID: -1623423197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_87
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1400
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c129cabfd5404b97b99a9e3df433d
+      internalID: -1711995570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1400
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2998876bbcf238344a35adbb7762534e
+      internalID: -792706686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1400
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65304bce6dccbbd409653302620c9fd0
+      internalID: -59437506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73adb917294f4f446b002219af8118a2
+      internalID: -152866067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1330
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fcb90deb1e0fe40979c04823fa0602
+      internalID: -411367409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1330
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacbf4b8215c3f248a3ffe6b066b2e59
+      internalID: -1197819898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1330
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20112f912250ad44d815401b5bd446f7
+      internalID: -588530588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1330
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d68f8d3223238498608947ae196735
+      internalID: 295255775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18109980e206722408eaabd051094fa3
+      internalID: 131365262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_96
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1260
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ebac9c6973f6418ef878371135ee4
+      internalID: -2040583479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_97
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1260
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee239b6641e331b489483e2be91c07b7
+      internalID: -1392900092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1260
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a65334848be6a489b568ab996fad39
+      internalID: 2050088007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1260
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd0d0728bdf1941b21526d71953b89
+      internalID: 591741399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9710471ff31b1d8429ea059d778d9943
+      internalID: 900899895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1190
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab550efa8844524489a92e79d375f063
+      internalID: 843071519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1190
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37584074e07a0b439aa4deb5a413868
+      internalID: -1110818292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_103
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1190
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb6b6c530d5af4f8f4ea1469fd6f1f
+      internalID: -1805430681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1190
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9edbc6b550cc41be5b11f40b19e01
+      internalID: -25112416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b826a553eb2dc146afa295bc5a49b56
+      internalID: 130458565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_106
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1120
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47aa221001db24e9a9d70353632b90
+      internalID: 369515883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1120
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e647621d268a52b439150be739ce40f5
+      internalID: -1513092968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_108
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1120
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8373e6518e16774da1d379c92665e80
+      internalID: -558012691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1120
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04b00111b8e7a4686834f1c3138f4d
+      internalID: -1106135232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110bcdebcede372449e04124b2ed3602
+      internalID: 1274908286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_111
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1050
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd95f186090434cb64731d54a38c43
+      internalID: -1005752011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_112
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1050
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19be21d9b5a2542967eb7fb77c3c17
+      internalID: -1149396680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1050
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca5a73a76e7ce4db7c4525345923b6
+      internalID: -209044784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1050
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5a4cb3b26dba4cb723ad16d43f054
+      internalID: 107032759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c9726d8f0a9e4ba8de8208d67c775
+      internalID: -1020574294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf68f3ab1a12a6044a9cb1c7c98b4855
+      internalID: -1620622938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_117
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03936181257e89741baa4c4bceec26a7
+      internalID: -773406237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a5f6a38f935e4898dac8610f22aa5
+      internalID: 368654088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_119
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b79dc090e2f2224fb203223eb786c08
+      internalID: 1533122330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e838c1c18e99f1498bf63ae0ef13a65
+      internalID: 374638558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_121
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8b1d9c43a077499878b7cd0f9a548
+      internalID: -38516154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_122
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d640a6fcbf3749a78e98f724143cd
+      internalID: -1009055840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaadf14a8221b0a40b26637aed968472
+      internalID: 1933969108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_124
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94cb7063bb103e49b127dd3842bbc5d
+      internalID: 507619468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86caab5a250aae147acf888ddc64d594
+      internalID: -1759571396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be3a33870e4df4e84a16f033fc3885
+      internalID: -1352253636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_127
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd3563629b5124ca34ce23c8491c78
+      internalID: 1773515996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_128
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9021a994a2a2d5478a4186766d40749
+      internalID: -196974528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_129
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e92085ae34324aa12d6bd6a1d9cad
+      internalID: 1533179848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275329801a0c0dc4fa7dcfe3b944297c
+      internalID: -2010292005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_131
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 770
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3167b3dd482538419029dde3b9f747a
+      internalID: 616521570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 770
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c8997bc9b69d498238deefcd2f98e
+      internalID: 1528286743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_133
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 770
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e919868088b7c92409873570fda3e9f0
+      internalID: 2146913457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_134
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 770
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c46945ef2a89c4c877da769e60a889
+      internalID: 694250095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0525f2e53f414da07001c0dcf72c0
+      internalID: 572494198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_136
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb905806254213444acc821ce2766008
+      internalID: 1233282727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_137
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ebe9129ce2bf4f9e3e3cef0ec7d87
+      internalID: 1012749208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_138
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfda6064d987734d9aaeae0d59badca
+      internalID: -860161351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_139
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71728246cd56c84fb67204bb19265d7
+      internalID: 986764164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cba43f2924b2a4bbda29174ac24161
+      internalID: 501352353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_141
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456775df8a6bf6b4796d9712eb52c057
+      internalID: 1051712337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_142
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6a5a5ff6b5934893c0bb66021e9f2
+      internalID: -426986764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69024b1711fbec74896dd5ad93fae9b2
+      internalID: 1289739302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3600aa2b6a13344bf6c7eaed6c2609
+      internalID: -65412576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113c033ce12d994c8080da2a97193c4
+      internalID: 2124266591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_146
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b6dcc738c9044a98e1500655aef40
+      internalID: -200308844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_147
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413053507b59a564380d5ea94a2e5d3c
+      internalID: 1546480032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_148
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e52053bc2b60784e8569b902cdc9ce2
+      internalID: 489465453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_149
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2580cb114df2343bbe4f4b7ca180ae
+      internalID: -487684880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b2f15b4f4ea224595331b1353907fd
+      internalID: -398005113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_151
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a185db098388414e8c2071764817e94
+      internalID: 1500496712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_152
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5be8bdb1df0f349a23c224c40f751c
+      internalID: 2107958478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_153
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de510f488b9d8454a9d4274dd138aa5c
+      internalID: 875469734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645338130efaf5468188d2918b61700
+      internalID: 408002700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d48c87365fce6e49ace5b77f8c36642
+      internalID: -1200344709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_156
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1870a11365c24ba6d1335f98f20e2
+      internalID: 294845700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_157
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0346ac296247d1142850eadc05658ad1
+      internalID: -117974660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_158
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73ad270139f8a3459030aec5e3852fc
+      internalID: -1759654013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19280fd8c291b274aa8496ef0929d2d3
+      internalID: 1550898491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76d75cd75de479469c1489ba3eeb672
+      internalID: 1676051482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_161
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d335fa6d17863458b1d632995fa5dc
+      internalID: 1304921562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fcfe1a6bc9a5b4b95e3bfcc385d7b4
+      internalID: -99154201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_163
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c9be8e2fa57214996f3d53590ddbe2
+      internalID: -1068257787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_164
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685b406586894c49a15354ce7046b14
+      internalID: -553891607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f00edac8d4bf54baedddbac7f41a73
+      internalID: -1419893236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_166
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2392fd0fdf6e45afd879b221f68c6
+      internalID: -969112772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_167
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73694216a3a0b334bb065f3b0316151b
+      internalID: -414280962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_168
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8ee83fdc0283f43a592786bfab0124
+      internalID: 981693754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_169
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29bf14cb57a1dc49a49807fbec00933
+      internalID: 1018802807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71485c945afd506499cfe74fdc817439
+      internalID: 290278702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9bbc73d1fb8b43a6d3d2426b528e1
+      internalID: 367432375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_172
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b01744f4b7d54b9d2e0ba3864633b
+      internalID: -1519899890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_173
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f468996fe9280428b437673010a8ee
+      internalID: 397949695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab1d7ea989241c4cb73f4bde1415632
+      internalID: 1810084107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7327defe3a6fe43b99d96fb38c47f1
+      internalID: 731671582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_176
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfdcf56be46a3d48a904593c6d364ea
+      internalID: 574504442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_177
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa7f317e126e54db707958bc1dc19f
+      internalID: 317470670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea082b85b00d504aa6a5a9954a44743
+      internalID: -1462260912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_179
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a9ba756bd88b42a5df2207b85e402
+      internalID: 398820245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03ef8418d51b8748a00c83f58e0161e
+      internalID: -1418452254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_181
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f63774f5c9304787080d4f1515832
+      internalID: 357271994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb8588616e2904e91019cfff0294ad
+      internalID: -1927686888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_183
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56183f8ed0fe1b4ebcbfc38590a4ba1
+      internalID: -1587764674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_184
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb6cb961008f349b9254e02b8c8823
+      internalID: 2131239950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122e91912700a84bb22da825fe8ebcc
+      internalID: 2136081895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_186
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34f216a298851428058c86860f290a
+      internalID: -825364549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_187
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fce1dae6088a7d42b8ea69eea056836
+      internalID: 1667747846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c491a642574916a45a29171d1a6938ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_0: 1812799500
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_1: -1286783000
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_10: 47752705
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_100: 900899895
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_101: 843071519
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_102: -1110818292
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_103: -1805430681
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_104: -25112416
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_105: 130458565
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_106: 369515883
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_107: -1513092968
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_108: -558012691
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_109: -1106135232
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_11: -1767473948
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_110: 1274908286
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_111: -1005752011
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_112: -1149396680
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_113: -209044784
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_114: 107032759
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_115: -1020574294
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_116: -1620622938
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_117: -773406237
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_118: 368654088
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_119: 1533122330
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_12: 634930851
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_120: 374638558
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_121: -38516154
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_122: -1009055840
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_123: 1933969108
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_124: 507619468
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_125: -1759571396
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_126: -1352253636
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_127: 1773515996
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_128: -196974528
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_129: 1533179848
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_13: -919613618
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_130: -2010292005
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_131: 616521570
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_132: 1528286743
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_133: 2146913457
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_134: 694250095
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_135: 572494198
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_136: 1233282727
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_137: 1012749208
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_138: -860161351
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_139: 986764164
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_14: -385306578
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_140: 501352353
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_141: 1051712337
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_142: -426986764
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_143: 1289739302
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_144: -65412576
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_145: 2124266591
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_146: -200308844
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_147: 1546480032
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_148: 489465453
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_149: -487684880
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_15: -1464505764
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_150: -398005113
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_151: 1500496712
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_152: 2107958478
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_153: 875469734
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_154: 408002700
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_155: -1200344709
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_156: 294845700
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_157: -117974660
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_158: -1759654013
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_159: 1550898491
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_16: 27618857
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_160: 1676051482
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_161: 1304921562
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_162: -99154201
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_163: -1068257787
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_164: -553891607
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_165: -1419893236
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_166: -969112772
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_167: -414280962
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_168: 981693754
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_169: 1018802807
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_17: 2023908718
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_170: 290278702
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_171: 367432375
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_172: -1519899890
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_173: 397949695
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_174: 1810084107
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_175: 731671582
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_176: 574504442
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_177: 317470670
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_178: -1462260912
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_179: 398820245
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_18: 378220739
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_180: -1418452254
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_181: 357271994
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_182: -1927686888
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_183: -1587764674
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_184: 2131239950
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_185: 2136081895
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_186: -825364549
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_187: 1667747846
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_19: 1756074656
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_2: 871504714
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_20: 183339350
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_21: 6885338
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_22: 2015302262
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_23: -1543920320
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_24: 1085451807
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_25: 971911814
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_26: 1719111157
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_27: 1153969414
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_28: 1604811224
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_29: 711836625
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_3: 433687170
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_30: -1789872581
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_31: 2057996950
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_32: 529838255
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_33: -1327581795
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_34: -792813236
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_35: -1142867599
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_36: -1605990787
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_37: 982392829
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_38: 2038614705
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_39: 790062684
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_4: 449716274
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_40: 752649021
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_41: 1550429270
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_42: 2160928
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_43: -616440799
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_44: -1493623755
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_45: -1134377809
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_46: 280895088
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_47: 1891042177
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_48: -1619310794
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_49: 2851545
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_5: 1183515635
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_50: 170312418
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_51: 536851811
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_52: 726381768
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_53: 1726646005
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_54: 521518300
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_55: 31429117
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_56: 1833795569
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_57: 1705556010
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_58: 626323960
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_59: 698343739
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_6: 1364742486
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_60: 152962664
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_61: -962006956
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_62: 241053411
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_63: -1919020492
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_64: 1722380736
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_65: 774683188
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_66: -1988882187
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_67: -39748476
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_68: -1578750858
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_69: -2074769308
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_7: 1075125744
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_70: -601557661
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_71: 487165070
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_72: -359622165
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_73: -2051030254
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_74: 262846689
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_75: 1051994957
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_76: 546721357
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_77: 1376271705
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_78: 1127306554
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_79: 1570797151
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_8: -1589525455
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_80: 997000452
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_81: -627820861
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_82: -1052538986
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_83: -1696699922
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_84: 1168544397
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_85: -1184335204
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_86: -1623423197
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_87: -1711995570
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_88: -792706686
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_89: -59437506
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_9: 901523401
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_90: -152866067
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_91: -411367409
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_92: -1197819898
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_93: -588530588
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_94: 295255775
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_95: 131365262
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_96: -2040583479
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_97: -1392900092
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_98: 2050088007
+      skeleton-meme-shield-ezgif.com-gif-to-sprite-converter_99: 591741399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
