@@ -745,8 +745,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74c6fa456255c1049b42638a6684e899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HandManager
+  cardswitcher: 0
   maxHandSize: 5
-  cardPrefab: {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+  cardPrefab:
+  - {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+  - {fileID: 4936380315406479327, guid: 171e6e9580d4a2c43a5bba7c28e873f4, type: 3}
+  - {fileID: 475251906319111350, guid: a7a9d287b63bc754e835f59effe7e685, type: 3}
   splineContainer: {fileID: 1747860603}
   spawnPoint: {fileID: 1117960796}
   handCards: []
