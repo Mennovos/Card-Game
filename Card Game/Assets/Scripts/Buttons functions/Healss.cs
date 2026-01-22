@@ -18,7 +18,7 @@ public class Healss : Button
     }
     private void OnMouseOver()
     {
-        transform.localScale = new Vector3(1.3f, 1.3f, 1.3f);
+        Orginelscale = new Vector3(1.3f, 1.3f, 1.3f);
     }
     private void OnMouseExit()
     {
