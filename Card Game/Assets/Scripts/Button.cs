@@ -6,8 +6,10 @@ public class Button : MonoBehaviour
     private GameManger gameManger;
     protected GameObject MainUi;
     protected HandManager handManager;
+    private Vector3 Orginelscale;
     protected virtual void Start()
      {
+        Orginelscale = transform.localScale;
         handManager = FindFirstObjectByType<HandManager>();
         gameManger = FindFirstObjectByType<GameManger>();
         MainUi = GameObject.Find("MainUI");
@@ -21,5 +23,13 @@ public class Button : MonoBehaviour
            MainUi.SetActive(false);
         }
         Destroy(gameObject,0.1f);
+    }
+    private void OnMouseOver()
+    {
+        transform.localScale = new Vector3(1.3f, 1.3f, 1.3f);
+    }
+    private void OnMouseExit()
+    {
+        transform.localScale = Orginelscale;
     }
 }

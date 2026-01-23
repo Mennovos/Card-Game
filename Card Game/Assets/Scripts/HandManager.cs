@@ -1,6 +1,5 @@
 using DG.Tweening;
 using System.Collections.Generic;
-using System.Runtime.Serialization.Formatters;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Splines;
@@ -27,16 +26,16 @@ public class HandManager : MonoBehaviour
                     cardswitcher = 0;
                 }
             }
-
         DeleteOld();
         UpdateCardPositions();
     }
     private void DrawCards()
     {
         if (handCards.Count >= maxHandSize) return;
-        GameObject g = Instantiate(cardPrefab[cardswitcher], spawnPoint.position, spawnPoint.rotation);
+        GameObject g = Instantiate(cardPrefab[cardswitcher],spawnPoint.position, spawnPoint.rotation);
         handCards.Add(g);
         UpdateCardPositions();
+        g.transform.SetParent(this.transform);
     }
     public void UpdateCardPositions()
     {

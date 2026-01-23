@@ -2,26 +2,18 @@ using UnityEngine;
 
 public class Healss : Button
 {
+    private GameObject Player;
     private Health health;
-    private Vector3 Orginelscale;
+    
     protected override void Start()
     {
-        Orginelscale = transform.localScale;
         base.Start();
-        health = FindFirstObjectByType<Health>();
+        Player = GameObject.Find("Player");
+        health = Player.GetComponent<Health>();
     }
     public void Healllls()
     {
         Debug.Log("Healed 30 health points.");
-        health.Heal(30f);
         base.Nexturn();
-    }
-    private void OnMouseOver()
-    {
-        transform.localScale = new Vector3(1.3f, 1.3f, 1.3f);
-    }
-    private void OnMouseExit()
-    {
-        transform.localScale = Orginelscale;
     }
 }

@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Runtime.CompilerServices;
+using UnityEngine.UI;
 public class GameManger : MonoBehaviour
 {
     public bool turnEnded = true;
@@ -8,6 +9,7 @@ public class GameManger : MonoBehaviour
     [SerializeField] private float waitTime = 10f;
     [SerializeField] private GameObject MainUi;
     [SerializeField] private GameObject EnemyUi;
+    [SerializeField] private GameObject Handmanger;
 
     private void Update()
     {
@@ -23,10 +25,12 @@ public class GameManger : MonoBehaviour
     }
     private IEnumerator Waitime()
     {
+        Handmanger.SetActive(false);
         EnemyUi.SetActive(true);
         player.GetComponent<Health>().TakeDamage(15f);
         yield return new WaitForSeconds(waitTime);
         EnemyUi.SetActive(false);
+        Handmanger.SetActive(true);
         MainUi.SetActive(true);
     }
 }
