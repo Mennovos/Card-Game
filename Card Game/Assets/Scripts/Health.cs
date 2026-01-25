@@ -8,7 +8,12 @@ public class Health : MonoBehaviour
     public float currentHealth = 100f;
     public float maxHealth = 100f;
     [SerializeField] private UnityEngine.UI.Image healthBar;
+    [SerializeField] private GameObject Deathui;
 
+    private void Start()
+    {
+        Deathui.SetActive(false);
+    }
     void Update()
     {
         if (currentHealth > maxHealth)
@@ -33,7 +38,6 @@ public class Health : MonoBehaviour
     }
     private void Die()
     {
-        Debug.Log("Character has died.");
-        // Add death logic here (e.g., play animation, disable character, etc.)
+        Deathui.SetActive(true);
     }
 }
