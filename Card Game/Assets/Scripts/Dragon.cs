@@ -15,6 +15,10 @@ public class Dragon : MonoBehaviour
     {
        animator.SetTrigger("EnemyDamage");
     }
+    public void EnemyBeenHit()
+    {
+       animator.SetTrigger("EnemyHit");
+    }
     public void EnemyDies()
     {
        animator.SetTrigger("EnemyDie");
