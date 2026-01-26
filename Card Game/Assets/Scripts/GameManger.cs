@@ -38,8 +38,8 @@ public class GameManger : MonoBehaviour
         dragon.PlayAttackAnimation();
         Handmanger.SetActive(false);
         EnemyUi.SetActive(true);
-        player.GetComponent<Health>().TakeDamage(15f);
         yield return new WaitForSeconds(waitTime);
+        player.GetComponent<Health>().TakeDamage(31f);
         EnemyUi.SetActive(false);
         Handmanger.SetActive(true);
         MainUi.SetActive(true);

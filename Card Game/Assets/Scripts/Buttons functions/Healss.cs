@@ -8,12 +8,12 @@ public class Healss : Button
     protected override void Start()
     {
         base.Start();
-        Player = GameObject.Find("Player");
-        health = Player.GetComponent<Health>();
     }
     public void Healllls()
     {
-        Debug.Log("Healed 30 health points.");
+        Player = GameObject.Find("Player");
+        health = Player.GetComponent<Health>();
+        health.Heal(20f);
         base.Nexturn();
     }
 }
