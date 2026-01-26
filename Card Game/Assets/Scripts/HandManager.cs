@@ -20,24 +20,24 @@ public class HandManager : MonoBehaviour
             if (kb.spaceKey.wasPressedThisFrame)
             {
                 DrawCards();
-                cardswitcher++;
-                if (cardswitcher > cardPrefab.Count - 1)
-                {
-                    cardswitcher = 0;
-                }
             }
         DeleteOld();
         UpdateCardPositions();
     }
-    private void DrawCards()
+    public void DrawCards()
     {
         if (handCards.Count >= maxHandSize) return;
         GameObject g = Instantiate(cardPrefab[cardswitcher],spawnPoint.position, spawnPoint.rotation);
         handCards.Add(g);
         UpdateCardPositions();
         g.transform.SetParent(this.transform);
+        cardswitcher++;
+        if (cardswitcher > cardPrefab.Count - 1)
+        {
+            cardswitcher = 0;
+        }
     }
-    public void UpdateCardPositions()
+    private void UpdateCardPositions()
     {
         DeleteOld();
         if (handCards.Count == 0) return;

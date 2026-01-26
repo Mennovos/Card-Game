@@ -10,7 +10,15 @@ public class GameManger : MonoBehaviour
     [SerializeField] private GameObject MainUi;
     [SerializeField] private GameObject EnemyUi;
     [SerializeField] private GameObject Handmanger;
-
+    private HandManager handManager;
+    private void Start()
+    {
+       handManager = FindFirstObjectByType<HandManager>();
+        for (int i = 0; i < 5; i++)
+        {
+            handManager.DrawCards();
+        }
+    }
     private void Update()
     {
         if (turnEnded)
