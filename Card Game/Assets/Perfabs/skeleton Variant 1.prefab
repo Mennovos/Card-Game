@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 3528302316602142280}
   - component: {fileID: 5582732624538874014}
   - component: {fileID: 2918155582221372891}
-  - component: {fileID: 3897501508884221196}
   m_Layer: 5
   m_Name: skeleton Variant 1
   m_TagString: Untagged
@@ -175,27 +174,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee3943a9884e48f4fbe3d9436c28c37b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Healss
---- !u!65 &3897501508884221196
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1516667252279619929}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2893518660706199897
 GameObject:
   m_ObjectHideFlags: 0
