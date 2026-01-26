@@ -327,7 +327,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8601926625626965894, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
       propertyPath: m_PresetInfoIsWorld
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -342,10 +342,10 @@ PrefabInstance:
       addedObject: {fileID: 7529911812879877948}
     - targetCorrespondingSourceObject: {fileID: 7006879876335141253, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 970833935687121529}
+      addedObject: {fileID: 1373865757715298990}
     - targetCorrespondingSourceObject: {fileID: 7006879876335141253, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1373865757715298990}
+      addedObject: {fileID: 3702614166417361776}
   m_SourcePrefab: {fileID: 100100000, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}
 --- !u!1 &3461596361109964539 stripped
 GameObject:
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 970833935687121529}
-        m_TargetAssemblyTypeName: Healss, Assembly-CSharp
-        m_MethodName: Healllls
+      - m_Target: {fileID: 3702614166417361776}
+        m_TargetAssemblyTypeName: Damages, Assembly-CSharp
+        m_MethodName: Damagess
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -408,18 +408,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &970833935687121529
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3461596361109964539}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ee3943a9884e48f4fbe3d9436c28c37b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Healss
 --- !u!65 &1373865757715298990
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -441,6 +429,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3702614166417361776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3461596361109964539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16c58d71cb823d043aa8840a3c462efe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Damages
 --- !u!224 &8986145665456711636 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3279267368215388330, guid: d0ed330b977eeb24b97016ae97ecee41, type: 3}

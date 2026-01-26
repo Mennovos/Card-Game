@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Damages : Button
 {
-    [SerializeField] private GameObject enemyHealth;
     private Health health;
+    private GameObject Enemy;
     protected override void Start()
     {
         base.Start();
@@ -11,7 +11,9 @@ public class Damages : Button
     }
     public void Damagess()
     {
-        enemyHealth.GetComponent<Health>().TakeDamage(20f);
+        Enemy = GameObject.Find("Enemy");
+        health = Enemy.GetComponent<Health>();
+        health.TakeDamage(20f);
         base.Nexturn();
     }
 

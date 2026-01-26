@@ -39,7 +39,7 @@ public class GameManger : MonoBehaviour
         Handmanger.SetActive(false);
         EnemyUi.SetActive(true);
         yield return new WaitForSeconds(waitTime);
-        player.GetComponent<Health>().TakeDamage(31f);
+        player.GetComponent<Health>().TakeDamage(15f);
         EnemyUi.SetActive(false);
         Handmanger.SetActive(true);
         MainUi.SetActive(true);

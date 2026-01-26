@@ -653,7 +653,6 @@ GameObject:
   - component: {fileID: 696085016}
   - component: {fileID: 696085019}
   - component: {fileID: 696085018}
-  - component: {fileID: 696085020}
   m_Layer: 0
   m_Name: PlayerHealth
   m_TagString: Untagged
@@ -718,24 +717,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 696085015}
   m_CullTransparentMesh: 1
---- !u!114 &696085020
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 696085015}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1b9511479a86a844bac696241aa6ab7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Health
-  targetHealth: 100
-  fadeSpeed: 2
-  currentHealth: 100
-  maxHealth: 100
-  healthBar: {fileID: 696085018}
-  Deathui: {fileID: 899614078}
 --- !u!1 &802483471
 GameObject:
   m_ObjectHideFlags: 0
@@ -1504,6 +1485,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3285c6860ca2794b992cba15b93db87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Dragon
+--- !u!114 &1101632171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101632165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1b9511479a86a844bac696241aa6ab7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Health
+  targetHealth: 100
+  fadeSpeed: 2
+  currentHealth: 100
+  maxHealth: 100
+  healthBar: {fileID: 1382892074}
+  Deathui: {fileID: 899614078}
 --- !u!1 &1117960795
 GameObject:
   m_ObjectHideFlags: 0
@@ -1654,7 +1653,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8716414403987919071, guid: 21304eaf71c81464aa4b9ef3b5665fce, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1804717889}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8339888144014641765, guid: 21304eaf71c81464aa4b9ef3b5665fce, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1361704251}
   m_SourcePrefab: {fileID: 100100000, guid: 21304eaf71c81464aa4b9ef3b5665fce, type: 3}
 --- !u!4 &1157032176 stripped
 Transform:
@@ -2250,6 +2252,40 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4760071658082510, guid: 1a23adb5512843d47b68a82e0cd05a60, type: 3}
   m_PrefabInstance: {fileID: 2144114044}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1361704249 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8339888144014641765, guid: 21304eaf71c81464aa4b9ef3b5665fce, type: 3}
+  m_PrefabInstance: {fileID: 1157032175}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1361704251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1361704249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1b9511479a86a844bac696241aa6ab7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Health
+  targetHealth: 100
+  fadeSpeed: 2
+  currentHealth: 100
+  maxHealth: 100
+  healthBar: {fileID: 696085018}
+  Deathui: {fileID: 899614078}
+--- !u!114 &1382892074 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1077723779272472564, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
+  m_PrefabInstance: {fileID: 2306765067666173079}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!4 &1422647034 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4472924558029580, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
@@ -3170,7 +3206,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManger
   turnEnded: 0
-  player: {fileID: 696085015}
+  player: {fileID: 1361704249}
   waitTime: 5
   MainUi: {fileID: 1477543027}
   EnemyUi: {fileID: 802483471}
@@ -3684,7 +3720,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8253216401346527700, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
       propertyPath: m_Name
-      value: Dragon
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 8253216401346789938, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5014,13 +5050,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -89.99986
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4176497773632630661, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 8253216401346527700, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1101632168}
+    - targetCorrespondingSourceObject: {fileID: 8253216401346527700, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1101632171}
   m_SourcePrefab: {fileID: 100100000, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
