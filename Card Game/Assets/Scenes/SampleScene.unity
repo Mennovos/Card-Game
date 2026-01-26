@@ -508,7 +508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 2100000, guid: d6a366da89637ac4db6bf4c01675dad7, type: 2}
+  m_Material: {fileID: 2100000, guid: 9282733562908184d8edb511231d8587, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -2988,6 +2988,18 @@ PrefabInstance:
       propertyPath: Deathui
       value: 
       objectReference: {fileID: 899614078}
+    - target: {fileID: 4296839861509406602, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.8658023
+      objectReference: {fileID: 0}
+    - target: {fileID: 7531116379001427322, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 3.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249426230528939980, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.6747417
+      objectReference: {fileID: 0}
     - target: {fileID: 8253216401346527700, guid: d956e0f638e4fbb4085c3ad963fc4f43, type: 3}
       propertyPath: m_Name
       value: Dragon
