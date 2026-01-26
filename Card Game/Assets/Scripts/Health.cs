@@ -9,9 +9,10 @@ public class Health : MonoBehaviour
     public float maxHealth = 100f;
     [SerializeField] private UnityEngine.UI.Image healthBar;
     [SerializeField] private GameObject Deathui;
-
+    private Dragon dragon;
     private void Start()
     {
+        dragon = FindFirstObjectByType<Dragon>();
         Deathui.SetActive(false);
     }
     void Update()
@@ -38,6 +39,7 @@ public class Health : MonoBehaviour
     }
     private void Die()
     {
+        dragon.EnemyDies();
         Deathui.SetActive(true);
     }
 }

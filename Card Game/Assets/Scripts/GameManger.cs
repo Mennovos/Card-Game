@@ -11,9 +11,11 @@ public class GameManger : MonoBehaviour
     [SerializeField] private GameObject EnemyUi;
     [SerializeField] private GameObject Handmanger;
     private HandManager handManager;
+    private Dragon dragon;
     private void Start()
     {
-       handManager = FindFirstObjectByType<HandManager>();
+        dragon = FindFirstObjectByType<Dragon>();
+        handManager = FindFirstObjectByType<HandManager>();
         for (int i = 0; i < 5; i++)
         {    
             handManager.DrawCards();
@@ -33,6 +35,7 @@ public class GameManger : MonoBehaviour
     }
     private IEnumerator Waitime()
     {
+        dragon.PlayAttackAnimation();
         Handmanger.SetActive(false);
         EnemyUi.SetActive(true);
         player.GetComponent<Health>().TakeDamage(15f);
