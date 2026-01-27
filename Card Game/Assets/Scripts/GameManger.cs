@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 using UnityEngine.UI;
 public class GameManger : MonoBehaviour
 {
+    public float Damages = 15f;
     public bool turnEnded = true;
     public bool CanTakecard = true;
     [SerializeField] private float waitTime = 10f;
@@ -24,6 +25,10 @@ public class GameManger : MonoBehaviour
     }
     private void Update()
     {
+        if (Damages > 15f)
+        {
+            Damages = 15f;
+        }
         if (turnEnded)
         {
             Check();
@@ -41,9 +46,10 @@ public class GameManger : MonoBehaviour
         EnemyUi.SetActive(true);
         yield return new WaitForSeconds(waitTime);
         CanTakecard = true;
-        player.GetComponent<Health>().TakeDamage(15f);
+        player.GetComponent<Health>().TakeDamage(Damages);
         EnemyUi.SetActive(false);
         Handmanger.SetActive(true);
         MainUi.SetActive(true);
+        Damages *= 10000f;
     }
 }

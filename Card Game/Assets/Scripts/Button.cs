@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Button : MonoBehaviour
 {
-    private GameManger gameManger;
+    protected GameManger gameManger;
     protected GameObject MainUi;
     protected HandManager handManager;
     private Vector3 Orginelscale;

@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2762766109983424760, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
       propertyPath: m_Name
       value: Shield Variant
@@ -16,6 +20,18 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: e4cef448d66b337489fcbd9772f3c179, type: 3}
+    - target: {fileID: 7529911812879877948, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7944058462048625471}
+    - target: {fileID: 7529911812879877948, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Addefence
+      objectReference: {fileID: 0}
+    - target: {fileID: 7529911812879877948, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Defends, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 8824105197043764777, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
       propertyPath: m_Name
       value: shield
@@ -82,11 +98,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8986145665456711636, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.47986
+      value: -0.4798584
       objectReference: {fileID: 0}
     - target: {fileID: 8986145665456711636, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1.02
+      value: -1.0200195
       objectReference: {fileID: 0}
     - target: {fileID: 8986145665456711636, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -100,8 +116,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3702614166417361776, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7944058462048625471}
   m_SourcePrefab: {fileID: 100100000, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+--- !u!1 &4936380315406479327 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3461596361109964539, guid: a619b6ed47fbdc64a9d3867332e3d6be, type: 3}
+  m_PrefabInstance: {fileID: 8397951284668672292}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7944058462048625471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4936380315406479327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fcf207f6e91373418f8e963e2498483, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Defends

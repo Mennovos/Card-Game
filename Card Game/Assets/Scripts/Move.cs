@@ -14,6 +14,6 @@ public class Move : MonoBehaviour
     }
     private void Update()
     {
-            transform.Translate(Movement * Speed * Time.deltaTime);
+      transform.Translate(Movement * Speed * Time.deltaTime);
     }
 }

@@ -17,7 +17,7 @@ public class Damages : Button
         dragon.EnemyBeenHit();
         Enemy = GameObject.Find("Enemy");
         health = Enemy.GetComponent<Health>();
-        health.TakeDamage(20f);
+        health.TakeDamage(15f);
         base.Nexturn();
     }
 }
