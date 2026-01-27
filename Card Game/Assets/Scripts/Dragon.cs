@@ -17,7 +17,7 @@ public class Dragon : MonoBehaviour
     }
     public void EnemyBeenHit()
     {
-       animator.SetTrigger("EnemyHit");
+      // animator.SetTrigger("EnemyHit");
     }
     public void EnemyDies()
     {

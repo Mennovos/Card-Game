@@ -5,8 +5,9 @@ using UnityEngine.UI;
 public class GameManger : MonoBehaviour
 {
     public bool turnEnded = true;
-    [SerializeField] private GameObject player;
+    public bool CanTakecard = true;
     [SerializeField] private float waitTime = 10f;
+    [SerializeField] private GameObject player;
     [SerializeField] private GameObject MainUi;
     [SerializeField] private GameObject EnemyUi;
     [SerializeField] private GameObject Handmanger;
@@ -39,6 +40,7 @@ public class GameManger : MonoBehaviour
         Handmanger.SetActive(false);
         EnemyUi.SetActive(true);
         yield return new WaitForSeconds(waitTime);
+        CanTakecard = true;
         player.GetComponent<Health>().TakeDamage(15f);
         EnemyUi.SetActive(false);
         Handmanger.SetActive(true);

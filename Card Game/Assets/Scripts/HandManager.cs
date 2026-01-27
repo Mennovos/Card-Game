@@ -12,17 +12,22 @@ public class HandManager : MonoBehaviour
     [SerializeField] private SplineContainer splineContainer;
     [SerializeField] private Transform spawnPoint;
     [SerializeField] private List<GameObject> handCards = new();
-
+    private GameManger gameManger;
+    private void Start()
+    {
+        gameManger = FindFirstObjectByType<GameManger>();
+    }
     private void Update()
     {
-        Keyboard kb = Keyboard.current;
-        if (kb != null)
-            if (kb.spaceKey.wasPressedThisFrame)
-            {
-                DrawCards();
-            }
         DeleteOld();
         UpdateCardPositions();
+    }
+    public void Getcards()
+    {
+        if (gameManger.CanTakecard == true)
+        {
+            DrawCards();
+        }
     }
     public void DrawCards()
     {
@@ -36,6 +41,7 @@ public class HandManager : MonoBehaviour
         {
             cardswitcher = 0;
         }
+        gameManger.CanTakecard = false;
     }
     private void UpdateCardPositions()
     {
